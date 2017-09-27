@@ -1,0 +1,10 @@
+/home/stalin/Proyectos/FirstAspNet/bin/Debug/netcoreapp2.0/FirstAspNet.deps.json
+/home/stalin/Proyectos/FirstAspNet/bin/Debug/netcoreapp2.0/FirstAspNet.runtimeconfig.json
+/home/stalin/Proyectos/FirstAspNet/bin/Debug/netcoreapp2.0/FirstAspNet.runtimeconfig.dev.json
+/home/stalin/Proyectos/FirstAspNet/bin/Debug/netcoreapp2.0/FirstAspNet.dll
+/home/stalin/Proyectos/FirstAspNet/bin/Debug/netcoreapp2.0/FirstAspNet.pdb
+/home/stalin/Proyectos/FirstAspNet/obj/Debug/netcoreapp2.0/FirstAspNet.csproj.CoreCompileInputs.cache
+/home/stalin/Proyectos/FirstAspNet/obj/Debug/netcoreapp2.0/FirstAspNet.AssemblyInfoInputs.cache
+/home/stalin/Proyectos/FirstAspNet/obj/Debug/netcoreapp2.0/FirstAspNet.AssemblyInfo.cs
+/home/stalin/Proyectos/FirstAspNet/obj/Debug/netcoreapp2.0/FirstAspNet.dll
+/home/stalin/Proyectos/FirstAspNet/obj/Debug/netcoreapp2.0/FirstAspNet.pdb
