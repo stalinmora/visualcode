@@ -19,6 +19,7 @@ namespace FirstAspNet.Controllers
                 data.Add("Address :"+i.ToString());
                 data.Add("Email :"+i.ToString());
                 data.Add("Telephone :"+i.ToString());
+                data.Add("Prueba:" +i.ToString());
             }
             return data;
         }
