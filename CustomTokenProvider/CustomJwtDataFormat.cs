@@ -54,7 +54,7 @@ namespace FirstAspNet.CustomTokenProvider
 
         public string Protect(AuthenticationTicket data)
         {
-            throw new NotImplementedException()
+            throw new NotImplementedException();
         }
         public string Protect(AuthenticationTicket data, string purpose)
         {
